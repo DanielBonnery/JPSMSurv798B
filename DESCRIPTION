@@ -1,0 +1,18 @@
+Package: JPSMsurv798B
+Type: Package
+Title: X
+Version: 1.0 
+Date: 2020-01-24
+Author: D. Bonnery
+Maintainer: D. Bonnery  <dbonnery@umd.edu>
+Imports: sae,
+	R2jags,
+	lattice,
+	hbsae
+Suggests: 
+Description: Data
+Remotes: DanielBonnery/SaeComputations
+Depends: SaeComputations
+License: GPL (>= 2)
+LazyLoad: yes
+LazyData: true
