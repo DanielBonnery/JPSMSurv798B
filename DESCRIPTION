@@ -12,7 +12,14 @@ Imports: sae,
 Suggests: 
 Description: Data
 Remotes: DanielBonnery/SaeComputations
-Depends: SaeComputations
+Depends: SaeComputations,
+	dataCountyCropSurveySatellite,
+	dataBaseball,
+	dataCholesterol,
+	dataLaborForce,
+	dataACS,
+	dataNatality,
+	dataNatality
 License: GPL (>= 2)
 LazyLoad: yes
 LazyData: true
